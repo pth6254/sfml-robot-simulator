@@ -1,0 +1,15 @@
+# 빌드 산출물
+*.o
+*.a
+*.so
+robot_sim
+test_math
+hello_sfml
+
+# 실습 지시서 (수업 자료 기반)
+CLAUDE.md
+
+# 에디터
+.vscode/
+.idea/
+*.swp
